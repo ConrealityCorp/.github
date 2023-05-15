@@ -1,7 +1,7 @@
 #### ENTER THE
 ## MIXED REALITY ARENA
 Started in 2015 as a hobby open-source project in Bratislava, Slovakia.  
-Conreality utilizes the Mixed Reality hardware as a gateway for all gaming web3.0 projects to the physical world. 
+Conreality utilizes the Mixed Reality hardware as a gateway for all gaming projects to the physical world. 
 
 Find out more:  
 
