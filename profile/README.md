@@ -5,7 +5,7 @@ Conreality utilizes the Mixed Reality hardware as a gateway for all gaming web3.
 
 Find out more:  
 
-[Website](https://conreality.com/)   |   [Pitch Deck](https://pitch.conreality.com/)   |   [Brochure](https://brochure.conreality.com/)  
+[Website](https://conreality.com/)   |   [Pitch Deck](https://pitch.conreality.com/)   |   [Brochure](https://brochure.conreality.com/) 
 
 <a href="https://twitter.com/ConrealityGame" target="_blank"><img src="https://i.ibb.co/Wz1s3Rk/twitter-2-xxl.png" alt="twitter conreality" width="36px"></a>
 <a href="https://www.instagram.com/conreality/" target="_blank"><img src="https://i.ibb.co/TvyRvLB/instagram-black.png" alt="instagram conreality" width="36px"></a>
